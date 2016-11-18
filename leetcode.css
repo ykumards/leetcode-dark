@@ -1,3 +1,4 @@
+@-moz-document domain("leetcode.com") {
 body {
     background-color: #222;
     color: #DDD;
@@ -51,4 +52,5 @@ a {
 .ace-tm .ace_gutter {
 	background: #bbbbbb;
     color: #1b1a1a;
+}
 }
