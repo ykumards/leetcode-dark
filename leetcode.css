@@ -28,6 +28,9 @@ a {
 .table-striped>tbody>tr:nth-of-type(odd) {
 	background-color: #2f2f2f;
 }
+.ace_editor {
+	font: 16px/normal 'Menlo', 'Monaco', 'Ubuntu Mono', 'Consolas', 'source-code-pro', monospace;
+}
 #status {
 	background-color: #232020;
 }
@@ -37,4 +40,15 @@ a {
 }
 .iubenda-white {
 	background: #c5c5c5;
+}
+.jumbotron {
+	background-color: #272525;
+}
+.ace-tm {
+	background-color: #bbbbbb;
+    color: #1b1a1a;
+}
+.ace-tm .ace_gutter {
+	background: #bbbbbb;
+    color: #1b1a1a;
 }
