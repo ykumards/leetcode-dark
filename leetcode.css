@@ -28,3 +28,6 @@ a {
 .table-striped>tbody>tr:nth-of-type(odd) {
 	background-color: #2f2f2f;
 }
+#status {
+	background-color: #232020;
+}
