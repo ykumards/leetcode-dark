@@ -2,4 +2,4 @@
 Dark Userstyle for Leetcode
 
 ---
-You can use [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe) in Chrome or Firefox to add this. 
+You can use [Stylish](https://userstyles.org/styles/135320/leetcode-dark) in Chrome or Firefox to add this. 
