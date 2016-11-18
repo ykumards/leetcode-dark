@@ -31,3 +31,10 @@ a {
 #status {
 	background-color: #232020;
 }
+.form-control {
+	color: #fdfdfd;
+    background-color: #2d2e2f;
+}
+.iubenda-white {
+	background: #c5c5c5;
+}
